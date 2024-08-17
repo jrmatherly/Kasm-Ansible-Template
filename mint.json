@@ -1,0 +1,12 @@
+"name": "Matherly"
+"logo": {
+  "light": "/logo/M-Logo.png",
+  "dark": "/logo/M-Logo.png",
+  "href": "https://matherly.net"
+},
+"favicon": "/favicon.ico",
+"colors": {
+  "primary": "#7A0000FF",
+  "light": "#DE0000FF",
+  "dark": "#781111FF",
+},
